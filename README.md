@@ -4,7 +4,7 @@ A small practice project built with **React** (Vite) to learn and apply **props*
 
 ## Live Link
 
-- [Live]()
+- [Live](https://ashutosht0210.github.io/Job-Opening-Cards--React-Mini-Project/)
 
 ## What it does
 
